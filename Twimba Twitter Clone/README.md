@@ -1,7 +1,7 @@
-# Landing Page Le Wagon
+# Scrimba Twimba  
 
-Project from Le Wagon London Web Development Sprint where we built a Landing Page with HTML, CSS, and Javascript.
-[https://www.lewagon.com//]
+Project for Scrimba's Front-End Developer Career Path where we built a Twitter clone with HTML, CSS, and Javascript.
+https://www.scrimba.com
 
 ##
 
@@ -9,11 +9,27 @@ Project from Le Wagon London Web Development Sprint where we built a Landing Pag
 
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
+
+## Concepts Learned
+* textarea
+* .forEach()
+* data attributes
+* conditionally render styles
+* NOT operator(!)
+* CDNs
+
+  
+
 ## Preview
 
-![preview](https://user-images.preview.png)
+<img src="images/preview-github-readme.png">
+
 
 ## Video
+
+
+https://user-images.githubusercontent.com/107203586/207392590-ff44b23c-187d-437c-957c-ee0d7f2f9ea6.mov
+
 
 ## Links
 
