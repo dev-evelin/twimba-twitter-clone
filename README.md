@@ -22,7 +22,7 @@ https://www.scrimba.com
 
 ## Preview
 
-<img src="preview-github-readme.png">
+<img src="images/preview-github-readme.png">
 
 
 ## Video
