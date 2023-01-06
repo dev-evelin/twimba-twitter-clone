@@ -37,7 +37,6 @@ https://user-images.githubusercontent.com/107203586/207392590-ff44b23c-187d-437c
 
 ## Connect with me::
 
-https://www.linkedin.com/in/dev-evelin/
 
 <a href="https://codepen.io/dev-evelin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dev-evelin" height="30" width="40" /></a>
 <a href="https://twitter.com/dev_evelin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_evelin_" height="30" width="40" /></a>
